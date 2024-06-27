@@ -20,7 +20,7 @@ Join us in enhancing the ResearchPaperPlatform! Here’s how you can contribute:
     ```
 3. **Create a New Branch**:
     ```bash
-    git checkout -b feature-name
+    git checkout -b "feature-name"
     ```
 4. **Implement Changes**: Develop backend features, improve AI/ML algorithms, or make other enhancements.
 5. **Commit Your Changes**:
@@ -29,7 +29,7 @@ Join us in enhancing the ResearchPaperPlatform! Here’s how you can contribute:
     ```
 6. **Push to Your Fork**:
     ```bash
-    git push origin feature-name
+    git push origin "feature-name"
     ```
 7. **Open a Pull Request**: Submit a pull request from your forked repository, detailing the changes you have made.
 
