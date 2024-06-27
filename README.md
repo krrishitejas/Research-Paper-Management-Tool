@@ -16,7 +16,7 @@ Join us in enhancing the ResearchPaperPlatform! Here’s how you can contribute:
 1. **Fork the Repository**: Click the 'Fork' button at the top right of this page to create a copy in your GitHub account.
 2. **Clone Your Fork**:
     ```bash
-    git clone https://github.com/your-username/Research-Paper-Management-Tool.git
+    git clone https://github.com/krrishitejas/Research-Paper-Management-Tool.git
     ```
 3. **Create a New Branch**:
     ```bash
